@@ -13,7 +13,7 @@ You can install the developing version of seoulsurvey from
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("seoulsurvey")
+remotes::install_github("mrchypark/seoulsurvey")
 ```
 
 ## Example
